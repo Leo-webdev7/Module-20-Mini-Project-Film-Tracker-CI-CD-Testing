@@ -56,7 +56,7 @@ The GitHub Actions you will set up should only allow pull requests to the `devel
 
 * Then create a feature/testing branch off of `develop`, make a small change in your code, and push it up.
 
-* Perform a pull request comparing `feature/testing` to `develop` to trigger the `Checking Test` action.
+* Perform a pull request comparing `feature/testing` to `develop` to trigger the `Checking Test` action. // branches created
 
 * Go to the "Settings" tab for your repo, select "Branches", then select "Add classic branch protection rule".
 
